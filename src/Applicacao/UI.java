@@ -1,4 +1,4 @@
-package Applicacao;
+package applicacao;
 
 import xadrez.PecaDeXadrez;
 

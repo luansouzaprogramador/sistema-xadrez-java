@@ -1,8 +1,8 @@
-package Applicacao;
+package applicacao;
 
 import xadrez.PartidaDeXadrez;
 
-public class Program {
+public class Programa {
 
 	public static void main(String[] args) {
 		
